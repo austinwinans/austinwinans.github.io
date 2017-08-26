@@ -1,8 +1,7 @@
 ---
-layout: blog
+layout: 
 title: First Post
 meta: First Post
-source: austinwinans.github.io
 category: blog
 ---
 
