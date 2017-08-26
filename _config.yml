@@ -1,1 +1,26 @@
+# Site settings
+title: austinwinans
+description: "My portfolio website"
+url: "austinwinans.github.io"
+author:
+  name: "Austin Winans"
+  email: "austinwaynewinans@gmail.com"
+  url: "austinwinans.github.io"
 
+# Build settings
+baseurl: / 
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
