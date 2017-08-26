@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: default
 title: First Post
 meta: First Post
 category: blog
