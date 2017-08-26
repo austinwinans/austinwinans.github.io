@@ -1,7 +1,7 @@
 ---
 layout: default
 title: First Post
-meta: First Post
+meta: This is the First Post
 category: blog
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla molestie dapibus felis, a efficitur justo tincidunt et. Phasellus nec sagittis turpis, ut tempus elit. Pellentesque aliquet eros eu tincidunt aliquet. Praesent varius feugiat augue sed dapibus. Curabitur suscipit diam in lorem sagittis, vitae convallis lacus viverra. Proin rhoncus accumsan nisi, vel condimentum urna sagittis non. Phasellus eget nisi sed leo sagittis pellentesque non eu ante. Curabitur porta rhoncus nulla non faucibus.
