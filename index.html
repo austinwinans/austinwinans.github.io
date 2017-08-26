@@ -66,7 +66,6 @@
 					<li class="tab"><a class="active" href="#myWork">My Work</a></li>
 					<li class="tab"><a href="#aboutMe">About Me</a></li>
 					<li class="tab"><a href="#contact">Contact</a></li>
-					<li class="tab"><a href="#blog">Blog</a></li>
 				</ul>
 		</div>
 	</nav>
@@ -111,28 +110,6 @@
 			<br/>
 		</div>
 		<div id="contact">
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-		</div>
-		<div id="blog">
-			<h1>Blog</h1>
-			<!-- Posts -->
-			<ul>
-				{% for blog in site.categories.blog limit: 10 %}
-				<li>
-					<a href=""{{blog.title}}></a>
-					<p>{{blog.meta}}</p>
-				</li>
-				{% endfor %}
-			</ul>
 			<br/>
 			<br/>
 			<br/>
