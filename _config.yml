@@ -1,2 +1,3 @@
 name: Austin Winans
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
